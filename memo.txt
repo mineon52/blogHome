@@ -1,0 +1,8 @@
+Spring Boot DevTools
+Lombok
+Spring Data JPA
+Mysql driver
+Spring Security
+OAuth2 Client -세팅안함
+Spring Web
+추가되는것들 - spring-security-taglibs, tomcat-embed-jasper, jstl
